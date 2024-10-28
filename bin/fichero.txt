@@ -1,0 +1,7 @@
+Hola Santiago
+
+Estoy leyendo de un fichero java
+Puedes intentarlo desde otro lenguaje, como Kotlin
+
+Santiago D.
+Fin del ejercicio
